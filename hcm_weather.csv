@@ -1,4 +1,4 @@
-year,city,country,avg_temp,
+year,city,country,avg_temp,avg_temp_10ma
 1850,Ho Chi Minh City,Vietnam,26.65,
 1851,Ho Chi Minh City,Vietnam,26.82,
 1852,Ho Chi Minh City,Vietnam,26.7,
